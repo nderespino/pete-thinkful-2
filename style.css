@@ -106,3 +106,7 @@ hr {
   flex: 1;
   margin: 10px;
 }
+
+.port-text{
+  font-size: 14px;
+}
